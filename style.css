@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: chocolate;
+    color: darkturquoise;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+img {
+    height: 600px;
+    width: 600px;
+    background-color: chocolate;
+}
+
+.nav navbar-nav {
+    position: absolute;
+    cursor: pointer;
+    display: flow-root;
+}
+
+.links {
+    text-decoration: none;
+    display: inline;
+    margin: 20px;
+}
